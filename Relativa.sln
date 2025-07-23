@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Relativa", "Relativa.vcxproj", "{8DF533BD-DAC4-475E-97F9-C808E61C2A6B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhysixGL", "Relativa.vcxproj", "{8DF533BD-DAC4-475E-97F9-C808E61C2A6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhysiXGL.Test", "..\PhysiXGL.Test\PhysiXGL.Test.vcxproj", "{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{8DF533BD-DAC4-475E-97F9-C808E61C2A6B}.Release|x64.Build.0 = Release|x64
 		{8DF533BD-DAC4-475E-97F9-C808E61C2A6B}.Release|x86.ActiveCfg = Release|Win32
 		{8DF533BD-DAC4-475E-97F9-C808E61C2A6B}.Release|x86.Build.0 = Release|Win32
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Debug|x64.ActiveCfg = Debug|x64
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Debug|x64.Build.0 = Debug|x64
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Debug|x86.Build.0 = Debug|Win32
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Release|x64.ActiveCfg = Release|x64
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Release|x64.Build.0 = Release|x64
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Release|x86.ActiveCfg = Release|Win32
+		{7FFEBAF5-D13E-DCD1-B6C2-096FE07B18B5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
